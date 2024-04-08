@@ -51,4 +51,6 @@
 3. [화면 설계서](https://docs.google.com/presentation/d/1kcKHMDAgqxoWS32tg92-u9XSwSFFmpgHab4iHggCDPo/edit?usp=sharing)
 4. [기능 명세서](https://docs.google.com/document/d/1id4xTTHKi3gepJE_MYx7qUG5FDs5FYqV/edit)
 5. [순서도](https://github.com/turmaze/mongle/assets/150693016/5f802a5e-3a4a-4c48-9e36-869455518e34)
-
+6. [개발문서](https://github.com/Heey2/mongle/blob/main/3%EC%A1%B0%20%EA%B0%9C%EB%B0%9C%EB%AC%B8%EC%84%9C.zip)
+7. [발표 자료](https://www.canva.com/design/DAGB04sYAN4/xEFpHHQWRRc0KF7iPN1SqA/view?utm_content=DAGB04sYAN4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+8. [요약본](https://github.com/Heey2/mongle/blob/main/%EC%B5%9C%EC%A2%85%EC%9A%94%EC%95%BD%EB%B3%B8_3%EC%A1%B0%20v1.1.pdf)
