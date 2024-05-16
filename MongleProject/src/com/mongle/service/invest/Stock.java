@@ -112,7 +112,7 @@ public class Stock {
 				MongleVisual.pusher();
 
 				MongleVisual.menuHeader("주식");
-				String stockURL = "https://apis.data.go.kr/1160100/service/GetStockSecuritiesInfoService/getStockPriceInfo?serviceKey=S3mJZVa%2B2sPWWlGQUV7WgSNe4Fd3yYWAts4pwm9aPIOJVQY4NZqBVvp4bQT%2Fm6iH023rAE5yPGI7gi%2FAZKlxng%3D%3D&numOfRows=1&resultType=json";
+				String stockURL = "https://apis.data.go.kr/1160100/service/GetStockSecuritiesInfoService/getStockPriceInfo?serviceKey=&numOfRows=1&resultType=json";//서비스키 입력필요
 
 				System.out.printf("%22s1. 종목명으로 검색\n", " ");
 				System.out.printf("%22s2. 코드명으로 검색\n", " ");
