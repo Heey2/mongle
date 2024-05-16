@@ -154,7 +154,7 @@ public class Gold {
 		System.out.printf("%11s|  고시날짜  |     상품명\t| 최고가(1g)| 최저가(1g)|\n", " ");
 		System.out.printf("%11s%s\n", " ", header);
 		try {
-			String url = "https://apis.data.go.kr/1160100/service/GetGeneralProductInfoService/getGoldPriceInfo?serviceKey=lv9bpyNMeZHwgq4vZdHVxoieUgW3b1RwSLU5oQH1MJA6BCz4Y86MVwXLcW3ij7OL%2Be9wXLIx1CEuOaAKLyzxwA%3D%3D";
+			String url = "https://apis.data.go.kr/1160100/service/GetGeneralProductInfoService/getGoldPriceInfo?serviceKey="; //서비스키 입력필요
 
 			DocumentBuilderFactory dbFactoty = DocumentBuilderFactory.newInstance();
 			DocumentBuilder dBuilder = dbFactoty.newDocumentBuilder();
