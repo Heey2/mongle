@@ -145,8 +145,8 @@ public class DepoSave {
 	 */
 	public static List<InfoProduct> searchDepoSave(List<InfoProduct> table) { // 예적금 검색 한번에 모으기
 		Scanner scan = new Scanner(System.in);
-		String apiDepo = "https://finlife.fss.or.kr/finlifeapi/depositProductsSearch.json?auth=e06ef138c067a4ff1a42504d0fefda36&topFinGrpNo=020000&pageNo=1";
-		String apiSave = "https://finlife.fss.or.kr/finlifeapi/savingProductsSearch.json?auth=efebe52a92c17a5bcee4c231f829a349&topFinGrpNo=020000&pageNo=1";
+		String apiDepo = "https://finlife.fss.or.kr/finlifeapi/depositProductsSearch.json?auth=&topFinGrpNo=020000&pageNo=1";//서비스키 입력필요
+		String apiSave = "https://finlife.fss.or.kr/finlifeapi/savingProductsSearch.json?auth=&topFinGrpNo=020000&pageNo=1";//서비스키 입력필요
 		
 		System.out.printf("%22s검색(은행 이름) : ", " ");
 		String name = scan.nextLine();
