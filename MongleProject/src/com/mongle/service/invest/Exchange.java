@@ -91,7 +91,7 @@ public class Exchange {
 
 		int r = -1;
 
-		String exchangeURL = "https://www.koreaexim.go.kr/site/program/financial/exchangeJSON?authkey=I2RthKfXSu7z1LFQH3mxZqouqGgL3KKm&searchdate=20240126&data=AP01";
+		String exchangeURL = "https://www.koreaexim.go.kr/site/program/financial/exchangeJSON?authkey=&searchdate=20240126&data=AP01";//서비스키 입력필요
 
 		try {
 
