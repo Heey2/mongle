@@ -163,7 +163,7 @@ public class Loan {
 		System.out.printf("%11s%s\n", " ", header);
 		try {
 			URL url = new URL(
-					"https://finlife.fss.or.kr/finlifeapi/creditLoanProductsSearch.json?auth=e06ef138c067a4ff1a42504d0fefda36&topFinGrpNo=020000&pageNo=1");
+					"https://finlife.fss.or.kr/finlifeapi/creditLoanProductsSearch.json?auth=&topFinGrpNo=020000&pageNo=1");//서비스키 입력필요
 
 			// JSON 결과
 			BufferedReader bf;
