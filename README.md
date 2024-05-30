@@ -1,4 +1,4 @@
-# mongle  
+# Mongle  
 
 ### 📌 Summary
 "Money" + "Mingle" == 돈을 혼합하다 또는 섞다 라는 의미로,
@@ -36,7 +36,7 @@
 
 ---
 
-### 🔎 API
+### 🔎 사용한 API
 1. [금융감독원 : 예적금 상품 API](https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700029)
 2. [금융감독원 : 대출 상품 API](https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700029)
 3. [한국수출입은행 : 현재 환율 API](https://www.koreaexim.go.kr/ir/HPHKIR020M01?apino=2&viewtype=C&searchselect=&searchword=)
@@ -45,7 +45,7 @@
 
 ---
 
-### 📜 Documents
+### 📜 프로젝트 결과물 - Documents
 1. [프로젝트 기획서](https://docs.google.com/document/d/1ZdwOrBu0cFKT696e7evV3AWndn-UIsmWMmrn85uw_tA/edit)
 2. [요구 분석서](https://docs.google.com/document/d/1YInPnLVNhBtMfhHlAm2jITgXlptAgBSIJURjQbzS2rQ/edit)
 3. [화면 설계서](https://docs.google.com/presentation/d/1kcKHMDAgqxoWS32tg92-u9XSwSFFmpgHab4iHggCDPo/edit?usp=sharing)
